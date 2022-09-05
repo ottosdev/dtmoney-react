@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de sites",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-09-03T21:35:26.667Z"
+    },
+    {
+      "id": 2,
+      "description": "Ifood",
+      "type": "outcome",
+      "category": "Venda",
+      "price": 20,
+      "createdAt": "2022-09-03T21:35:26.667Z"
+    },
+    {
+      "description": "React",
+      "price": 3000,
+      "category": "Sites",
+      "type": "income",
+      "createdAt": "2022-09-04T18:21:18.979Z",
+      "id": 3
+    },
+    {
+      "description": "React 1",
+      "price": 2222,
+      "category": "Sites",
+      "type": "outcome",
+      "createdAt": "2022-09-04T18:35:09.699Z",
+      "id": 4
+    }
+  ]
+}
